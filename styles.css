@@ -1,0 +1,35 @@
+body {
+	font-size: 12pt;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: black;
+	line-height: 14pt;
+	padding-left: 5pt;
+	padding-right: 5pt;
+	padding-top: 5pt;
+}
+
+header {
+	height: 250px;
+	background-image: url(logo.jpg),
+		linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5));
+	background-color: brown;
+	height: 175px;
+	background-repeat: no-repeat;
+	background-attachment: local;
+	background-position: top;
+	background-size: contain;
+	font: 18pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: 24pt;
+    text-align: center;
+	color: rgb(198, 228, 30);
+
+	text-align: center;
+}
+nav {
+	font: 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+img {
+	padding: 3pt;
+	float: right;
+}
